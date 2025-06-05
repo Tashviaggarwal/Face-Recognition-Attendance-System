@@ -1,0 +1,7 @@
+SecretKey.json
+attendance_report.xlsx
+__pycache__/
+*.p
+*.xlsx
+*.log
+*.pyc
