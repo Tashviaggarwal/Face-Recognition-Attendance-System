@@ -37,7 +37,7 @@ A real-time face recognition attendance system built using Python, OpenCV, and F
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Face-Recognition-Attendance-System.git
+   git clone https://github.com/Tashviaggarwal/Face-Recognition-Attendance-System.git
    cd Face-Recognition-Attendance-System
    ```
 
@@ -58,12 +58,12 @@ A real-time face recognition attendance system built using Python, OpenCV, and F
    python main.py
    ```
 
-## ✍️ Author
+## ✍️ About Me
 
 **Tashvi Aggarwal**  
-📫 [LinkedIn](https://www.linkedin.com/in/tashvi-aggarwal/)  
-📘 Author of [*My Entangled Thoughts*](https://amazon.in/...)  
-
+- 📫 Email: tashviaggarwal05@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tashvi-aggarwal/)  
+- 🐱 [GitHub Profile](https://github.com/Tashviaggarwal)  
 ---
 
 ## 📜 License
